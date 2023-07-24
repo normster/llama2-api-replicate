@@ -1,0 +1,2 @@
+ray==2.5.1
+vllm @ git+https://github.com/vllm-project/vllm@6fc2a38b110f9ba6037b31ee016f20df32426877
